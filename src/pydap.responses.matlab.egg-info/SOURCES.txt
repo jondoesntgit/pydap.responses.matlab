@@ -1,0 +1,13 @@
+setup.cfg
+setup.py
+src/pydap/__init__.py
+src/pydap.responses.matlab.egg-info/PKG-INFO
+src/pydap.responses.matlab.egg-info/SOURCES.txt
+src/pydap.responses.matlab.egg-info/dependency_links.txt
+src/pydap.responses.matlab.egg-info/entry_points.txt
+src/pydap.responses.matlab.egg-info/namespace_packages.txt
+src/pydap.responses.matlab.egg-info/not-zip-safe
+src/pydap.responses.matlab.egg-info/requires.txt
+src/pydap.responses.matlab.egg-info/top_level.txt
+src/pydap/responses/__init__.py
+src/pydap/responses/matlab/__init__.py

@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: pydap.responses.matlab
+Version: 0.1
+Summary: MATLAB response for Pydap
+Home-page: https://github.com/jondoesntgit/pydap.responses.matlab
+Author: Roberto De Almeida
+Author-email: roberto@dealmeida.net
+License: MIT
+Description: 
+        This handler allows a user to download data as a Matlab file
+        
+Keywords: MATLAB opendap dods dap science meteorology oceanography
+Platform: UNKNOWN
